@@ -30,9 +30,9 @@
 
 7. Follow this command to add GitHub setup in desktop
 
-```
+   ```
    C:\"Project_Path"> "repository https link from github"
-```
+   ```
 
 8. Push all the changes
 9. ```
