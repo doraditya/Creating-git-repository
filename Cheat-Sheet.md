@@ -34,12 +34,9 @@
    C:\"Project_Path"> "repository https link from github"
 ```
 
-1. Push all the changes
-
-2. ```
+8. Push all the changes
+9. ```
    git push -u origin master
    ```
-
-   If not logged in already, a popup would show, enter your credentials.
-
-1. Refresh the GitHub page to view your project file s in repo
+10. If not logged in already, a popup would show, enter your credentials.
+11. Refresh the GitHub page to view your project file s in repo
